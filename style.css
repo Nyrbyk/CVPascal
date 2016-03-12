@@ -116,6 +116,15 @@ section:last-child {
 	float: left;
 	width: 25%;
 }
+.sectionTitle2 {
+	float: left;
+	clear: left;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-size: 1.2em;
+	color: #2E7512;
+        margin-left: -120px;
+}
 
 .sectionContent {
 	float: right;
