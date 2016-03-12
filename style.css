@@ -173,7 +173,7 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
-@media all and (min-width: 602px) {
+@media all and (min-width: 702px) {
 	#headshot {
 		display: inline;
 	}
@@ -185,7 +185,7 @@ section:last-child {
 	}
 }
 
-@media all and (max-width: 601px) {
+@media all and (max-width: 701px) {
 	#cv {
 		width: 95%;
 		margin: 10px auto;
@@ -212,6 +212,10 @@ section:last-child {
 		font-size: 1.25em;
 	}
 	
+        .sectionContent h2 {
+	        margin-left: 0px;
+        }
+
 	.keySkills {
 		-moz-column-count:1;
 		-webkit-column-count:1;
