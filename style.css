@@ -116,17 +116,6 @@ section:last-child {
 	float: left;
 	width: 25%;
 }
-.sectionTitle2 {
-	float: left;
-	clear: left;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-style: italic;
-	font-size: 1.2em;
-	color: #2E7512;
-        margin-left: -120px;
-        display:none;
-        
-}
 
 .sectionContent {
 	float: right;
@@ -144,7 +133,15 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
+        margin-left: -15px;
 }
+
+.sectionContent h3 {
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	margin-bottom: -2px;
+}
+
 
 .subDetails {
 	font-size: 0.8em;
@@ -254,6 +251,12 @@ section:last-child {
 		line-height: .8em;
 		margin-bottom: 4px;
 	}
+        .sectionContent h2 {
+	        margin-left: 0px;
+        }
+
+        
+        
 }
 
 @media print {
@@ -274,6 +277,8 @@ section:last-child {
 	}
 }
 
+
+// Fadding animation below this line
 @-webkit-keyframes reset {
 	0% {
 		opacity: 0;
