@@ -173,7 +173,7 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
-@media all and (min-width: 702px) {
+@media screen and (min-width: 702px) {
 	#headshot {
 		display: inline;
 	}
@@ -185,7 +185,7 @@ section:last-child {
 	}
 }
 
-@media all and (max-width: 701px) {
+@media screen and (max-width: 701px) {
 	#cv {
 		width: 95%;
 		margin: 10px auto;
@@ -223,7 +223,7 @@ section:last-child {
 	}
 }
 
-@media all and (max-width: 480px) {
+@media screen and (max-width: 480px) {
 	.mainDetails {
 		padding: 15px 15px;
 	}
@@ -270,6 +270,7 @@ section:last-child {
     
 	#headshot {
 		display: inline;
+                float: left;
 	}
 	
 	#name {
@@ -279,7 +280,49 @@ section:last-child {
 	#contactDetails {
 		float: right;
 	}
-}
+       
+ }
+
+ @media print and (max-width: 700px){
+   
+	#cv {
+		width: 100%;
+		margin: 10px auto;
+		min-width: 280px;
+	}
+	
+	.sectionTitle, .sectionContent {
+		float: center;
+		width: 100%;
+	}
+	
+	.sectionTitle {
+		margin-left: -2px;
+		font-size: 1.25em;
+	}
+	
+        .sectionTitle h1 {
+            font-size: 1.4em; //1.5 on screen 
+        }
+        .sectionContent h2 {
+	        margin-left: 0px;
+                font-size: 1.4em; //1.5 on screen 
+       }
+
+	.keySkills {
+		-moz-column-count:1;
+		-webkit-column-count:1;
+		column-count:1;
+	}
+       
+        p {
+            font-size: 0.9em;
+        }
+        .competences {
+            font-size: 1em;
+        }
+
+ }
 
 
 // Fadding animation below this line
