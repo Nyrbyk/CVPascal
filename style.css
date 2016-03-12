@@ -18,7 +18,7 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 p {
 	font-size: 1em;
 	line-height: 1.4em;
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 	color: #444;
 }
 
@@ -124,6 +124,8 @@ section:last-child {
 	font-size: 1.2em;
 	color: #2E7512;
         margin-left: -120px;
+        display:none;
+        
 }
 
 .sectionContent {
@@ -157,7 +159,7 @@ section:last-child {
 	color: #444;
         font-family: 'Rokkitt', Helvetica, Arial, serif;
 	font-style: italic;
-	margin-bottom: 3px;
+	//margin-bottom: 3px;
 }
 
 .keySkills {
