@@ -98,7 +98,6 @@ p {
 	color: #cf8a05;
 }
 
-
 section {
 	border-top: 1px solid #dedede;
 	padding: 20px 0 0;
@@ -177,7 +176,11 @@ section:last-child {
 	#headshot {
 		display: inline;
 	}
-	
+
+        .addresspost {
+                display: none;
+        }
+        
 	.keySkills {
 	-moz-column-count:1;
 	-webkit-column-count:1;
@@ -191,6 +194,10 @@ section:last-child {
 		margin: 10px auto;
 		min-width: 280px;
 	}
+
+        .addresspost {
+                display: none;
+        }
 	
 	#headshot {
 		display: inline;
@@ -280,7 +287,12 @@ section:last-child {
 	#contactDetails {
 		float: right;
 	}
-       
+        
+        .addresspost {
+            //display: inline-block;
+        }
+
+
  }
 
  @media print and (max-width: 700px){
