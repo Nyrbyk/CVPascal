@@ -40,6 +40,7 @@
                     <h1 class="quickFade delayOne">Pascal Sarrazin</h1>
                     <h2 class="quickFade delayTwo">Manager</h2>
                     <h2 class="quickFade delayTwo">Chef de Service R&D</h2>
+                    <h3 class="quickFade delayTwo">Né le 15-04-1971 - Marié </h2>
                 </div>
 
                 <div id="contactDetails" class="quickFade delayThree">
