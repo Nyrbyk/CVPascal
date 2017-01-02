@@ -94,7 +94,7 @@
                         <article>
                             <h2>Product Platform Engineering Manager - Markem-Imaje</h2>
                             <p class="subDetails">Janvier 2008 - Décembre 2013</p>
-                            <p>Manager une équipe de 6 à 8 ingénieurs pour développer les plateformes embarquées utilisées par le groupe. En collaboration avec les autres sites de développement et un directeur basé aux états unis.</p>
+                            <p>Manager une équipe de 6 à 8 ingénieurs pour développer les plateformes embarquées utilisées par le groupe en collaboration avec les autres sites de développement et un directeur basé aux états unis.</p>
                             <p class="competences">Management, collaboration international (US, Suède, Inde, UK), Déploiements pratiques agiles.</p>
                         </article>
 
@@ -108,7 +108,7 @@
                         <article>
                             <h2>Ingénieur développement logiciel embarqué - Imaje / Valence</h2>
                             <p class="subDetails">Juin 1999 - Juin 2004</p>
-                            <p>Développements variés (temp réel, IHM, traitement de données, protocols) sur divers gammes d’imprimantes industrielles.</p>
+                            <p>Développements variés (temp réel, IHM, traitement de données, protocoles) sur diverses gammes d’imprimantes industrielles.</p>
                             <p class="competences">Programation C/C++/C#, RTOS, WinCE. Projets industriels multidisciplinaires</p>
                         </article>
 
@@ -184,7 +184,7 @@
                     <div class="sectionContent">
                         <ul class="keySkills">
                             <li>Animateur de l'antenne Valentinoise du CARA (Club Agile Rhone Alpes)</li>
-                            <li>Representant de Markem-Imaje au sein de Digital Valence Romans (Alliance French Tech in the Alps)</li>
+                            <li>Vice Président de Digital Valence Romans (Alliance French Tech in the Alps)</li>
                             <li>Pratique de la randonnée en montagne</li>
                         </ul>
                     </div>
