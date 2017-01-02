@@ -39,6 +39,7 @@
                 <div id="name">
                     <h1 class="quickFade delayOne">Pascal Sarrazin</h1>
                     <h2 class="quickFade delayTwo">Manager</h2>
+                    <h2 class="quickFade delayTwo">Chef de Service R&D</h2>
                 </div>
 
                 <div id="contactDetails" class="quickFade delayThree">
@@ -77,8 +78,15 @@
 
                     <div class="sectionContent">
                         <article>
+                            <h2>Manager R&D / System Integration - Markem-Imaje / Valence</h2>
+                            <p class="subDetails">Juin 2016 - Présent</p>
+                            <p>Coordoner et anticiper l’intégration système, avec une équipe pluridisciplinaire de 5 personnes, pour soutenir la mise en œuvre d’une approche agile à l’échelle d’un programme ambitieux (environ 80 personnes sur la base d'un framework SAFe). Créer de la synergie entre les équipes projets et les architectes systemes en déployant une infrastructure d’intégration allant des systèmes mécaniques aux logiciels embarqués.</p>
+                            <p class="competences">Coordination de programes multidisciplinaires, Approche agile "at scale" (SAFe) , Stratégie de platforming et intégration Système, </p>
+                        </article>
+                        
+                        <article>
                             <h2>Manager R&D / Software discipline EMEA - Markem-Imaje / Valence</h2>
-                            <p class="subDetails">Janvier 2014 - Présent</p>
+                            <p class="subDetails">Janvier 2014 - Juin 2016</p>
                             <p>Structurer une organisation d’environ 25 développeurs logiciels et 3 managers repartis entre la France, l’Angleterre, la Belgique et l’Espagne pour améliorer l’efficacité du département. Renforcement de la collaboration entre les équipes, mise en place de stratégies de partenariat, de pratiques de développement et de management agiles</p>
                             <p class="competences">Définition et stratégie d’organisation, Mangement de manager, Leadership, Management interculturel.</p>
                         </article>
@@ -181,7 +189,6 @@
                     </div>
                     <div class="clear"></div>
                 </section>
-
             </div>
         </div>
     </body>
