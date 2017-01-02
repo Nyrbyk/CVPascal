@@ -183,7 +183,7 @@
 
                     <div class="sectionContent">
                         <ul class="keySkills">
-                            <li>Animateur de l'antenne Valentinoise du CARA (Club Agile Rhone Alpes)</li>
+                            <li>Animateur de l'antenne <a href="http://groupspaces.com/CARAValence">Valentinoise du CARA</a> (<a href="http://www.clubagilerhonealpes.org">Club Agile Rhone Alpes)</a></li>
                             <li>Vice Président de Digital Valence Romans (Alliance French Tech in the Alps)</li>
                             <li>Pratique de la randonnée en montagne</li>
                         </ul>
