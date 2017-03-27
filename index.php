@@ -40,8 +40,8 @@
                     <h1 class="quickFade delayOne">Pascal Sarrazin</h1>
                     <h2 class="quickFade delayTwo">Manager</h2>
                     <h2 class="quickFade delayTwo">Chef de Service R&D</h2>
-                    <h3 class="quickFade delayTwo">Né le 15-04-1971 </h3>
-                    <h3 class="quickFade delayTwo">Marié </h3>
+                    <h3 class="quickFade delayTwo">Né le 15-04-1971, 46 ans </h3>
+                    <h3 class="quickFade delayTwo">Marié, 2 enfants </h3>
                 </div>
 
                 <div id="contactDetails" class="quickFade delayThree">
@@ -83,7 +83,7 @@
                             <h2>Manager R&D / System Integration - Markem-Imaje / Valence</h2>
                             <p class="subDetails">Juin 2016 - Présent</p>
                             <p>Coordoner et anticiper l’intégration système, avec une équipe pluridisciplinaire de 5 personnes, pour soutenir la mise en œuvre d’une approche agile à l’échelle d’un programme ambitieux (environ 80 personnes sur la base d'un framework SAFe). Créer de la synergie entre les équipes projets et les architectes systemes en déployant une infrastructure d’intégration allant des systèmes mécaniques aux logiciels embarqués.</p>
-                            <p class="competences">Coordination de programes multidisciplinaires, Approche agile "at scale" (SAFe) , Stratégie de platforming et intégration Système, </p>
+                            <p class="competences">Coordination de programes multidisciplinaires, Approche agile "at scale" (SAFe) , Stratégie de platforming et intégration Système. </p>
                         </article>
                         
                         <article>
@@ -104,14 +104,14 @@
                             <h2>Responsable technique - Imaje</h2>
                             <p class="subDetails">Juillet 2004 - Décember 2008</p>
                             <p>Responsable technique développement logiciel embarqué. Coordination d’une équipe de 3 ingénieurs pour développer les logiciels embarqués de 2 gammes d’imprimantes.</p>
-                            <p class="competences">Leadership technique et architecture système. Coordination et gestion de projets</p>
+                            <p class="competences">Leadership technique et architecture système. Coordination et gestion de projets.</p>
                         </article>
 
                         <article>
                             <h2>Ingénieur développement logiciel embarqué - Imaje / Valence</h2>
                             <p class="subDetails">Juin 1999 - Juin 2004</p>
                             <p>Développements variés (temp réel, IHM, traitement de données, protocoles) sur diverses gammes d’imprimantes industrielles.</p>
-                            <p class="competences">Programation C/C++/C#, RTOS, WinCE. Projets industriels multidisciplinaires</p>
+                            <p class="competences">Programation C/C++/C#, RTOS, WinCE. Projets industriels multidisciplinaires.</p>
                         </article>
 
                         <article>
@@ -125,7 +125,7 @@
                             <h2>Ingénieur développement logiciel -Napac / Paris</h2>
                             <p class="subDetails">Janvier 1995 - Juin 1997</p>
                             <p>Développement pour des équipements de télégestion. C++ sous Win16 et Win32.</p>
-                            <p class="competences">Multitache et protocol de communications (bus de terrain) en environnement Windows</p>
+                            <p class="competences">Multitache et protocol de communications (bus de terrain) en environnement Windows.</p>
                         </article>
                     </div>
                     <div class="clear"></div>
@@ -185,8 +185,9 @@
 
                     <div class="sectionContent">
                         <ul class="keySkills">
-                            <li>Animateur de l'antenne <a href="http://groupspaces.com/CARAValence">Valentinoise du CARA</a> (<a href="http://www.clubagilerhonealpes.org">Club Agile Rhone Alpes)</a></li>
-                            <li>Vice Président de Digital Valence Romans (Alliance French Tech in the Alps)</li>
+                            <!--Animateur de l'antenne <a href="http://groupspaces.com/CARAValence">Valentinoise du CARA</a> (<a href="http://www.clubagilerhonealpes.org">Club Agile Rhone Alpes)</a>-->
+                            <li>Animateur de l'antenne Valentinoise du CARA(Club Agile Rhone Alpes)</li>
+                            <li>Vice Président de French Tech in the Alps Valence Romans</li>
                             <li>Pratique de la randonnée en montagne</li>
                         </ul>
                     </div>
